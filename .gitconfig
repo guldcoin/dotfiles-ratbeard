@@ -1,0 +1,10 @@
+[user]
+	username = ratbeard
+	name = Mike Frawley
+	location = St. Paul, MN
+	website = http://www.mikefrawley.com
+	bio = Hey-o! ( ͡° ͜ʖ ͡°)
+[commit]
+	gpgsign = true
+[aliases]
+	github = ratbeard
